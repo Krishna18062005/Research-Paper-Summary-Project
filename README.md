@@ -49,7 +49,7 @@ To run the application locally:
 After running the application, you can input the URL of a research paper, and the tool will fetch the content, process it, and provide a summary along with extracted keywords and a formatted citation.
 
 ## Contributing
-
+   
 Contributions are welcome! If you have suggestions for improvements or additional features:
 
 1. Fork the repository.
